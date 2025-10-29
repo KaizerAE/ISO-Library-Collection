@@ -1,135 +1,162 @@
-# 📀 ISO Library Collection
+# 📀 مكتبة نسخ الـ ISO
 
-> A practical guide and organized library of the best operating systems and tools in ISO format  
-> (ISO مكتبة نسخ)
-
----
-
-## 📚 About This Repository
-
-This repository serves as a curated catalog of ISO images for various operating systems, security tools, and utilities. Whether you're a beginner exploring Linux or an advanced user building a multi-boot USB, this collection provides essential download links, usage tips, and categorization.
+> دليلك العملي لأفضل أنظمة التشغيل والأدوات بصيغة ISO  
+> "جمعنالك كل شيء في مكان واحد عشان ما تدور"
 
 ---
 
-## 🗂️ ISO Catalog
+## 🚀 حول هذا المستودع
 
-### 🔥 Linux Distros (General Use)
+هذا المستودع عبارة عن مكتبة منظمة لأفضل نسخ الـ ISO للأنظمة والأدوات اللي تحتاجها، سواء كنت مبتدئ بتجرب لينكس أول مرة أو خبير عايز يجمع مجموعة شاملة من الأدوات.
 
-| Name | Type | Description | Download Link |
-|------|------|-------------|---------------|
-| **Ubuntu 24.04 LTS** | Linux | Most popular beginner-friendly Linux distribution | [Download](https://ubuntu.com/download) |
-| **Linux Mint 22 (Cinnamon)** | Linux | Windows-like interface, based on Ubuntu | [Download](https://linuxmint.com/download.php) |
-| **Fedora 41** | Linux | Cutting-edge features, excellent for developers | [Download](https://getfedora.org/) |
-| **Debian 12 (Bookworm)** | Linux | Rock-solid stability, base for many distros | [Download](https://www.debian.org/distrib/) |
-| **Arch Linux (Rolling)** | Linux | DIY Linux; build your own system from scratch | [Download](https://archlinux.org/download/) |
-| **EndeavourOS 2025.x** | Linux | Arch made easy with graphical installer | [Download](https://endeavouros.com/latest-release/) |
-| **openSUSE Tumbleweed** | Linux | Rolling release with Btrfs snapshots and YaST | [Download](https://get.opensuse.org/tumbleweed/) |
-| **Pop!_OS 22.04** | Linux | Gaming-focused, great NVIDIA support | [Download](https://pop.system76.com/) |
+**💡 ليه تحتاج هذا الدليل؟**
+- توفير الوقت في البحث عن النسخ الأصلية
+- تصنيف واضح حسب الاستخدام
+- روابط مباشرة ومحدثة
+- نصائح عملية من الواقع
 
 ---
 
-### 🛡️ Security & Penetration Testing
+## ⭐ أفضل 15 نسخة ISO (اختيارات المجتمع)
 
-| Name | Type | Description | Download Link |
-|------|------|-------------|---------------|
-| **Kali Linux 2025.3** | Security | Industry-standard penetration testing platform | [Download](https://www.kali.org/get-kali/) |
-| **Parrot Security 6.x** | Security | Lighter alternative to Kali with privacy focus | [Download](https://parrotsec.org/download/) |
+### 🐧 توزيعات لينكس (للاستخدام العام)
 
----
+| الاسم | النوع | الوصف | رابط التحميل |
+|------|------|--------|---------------|
+| **Ubuntu 24.04 LTS** | لينكس | الأكثر شعبية وسهولة للمبتدئين | [تحميل](https://ubuntu.com/download) |
+| **Linux Mint 22 (Cinnamon)** | لينكس | واجهة شبيهة بويندوز، مبني على Ubuntu | [تحميل](https://linuxmint.com/download.php) |
+| **Fedora 41** | لينكس | أحدث التقنيات، ممتاز للمطورين | [تحميل](https://getfedora.org/) |
+| **Debian 12 (Bookworm)** | لينكس | استقرار صخري، أساس الكثير من التوزيعات | [تحميل](https://www.debian.org/distrib/) |
+| **Arch Linux (Rolling)** | لينكس | لينكس "افعلها بنفسك" - ابني نظامك من الصفر | [تحميل](https://archlinux.org/download/) |
+| **EndeavourOS 2025.x** | لينكس | Arch سهل مع منصب رسومي | [تحميل](https://endeavouros.com/latest-release/) |
+| **openSUSE Tumbleweed** | لينكس | إصدار متجدد مع Btrfs snapshots و YaST | [تحميل](https://get.opensuse.org/tumbleweed/) |
+| **Pop!_OS 22.04** | لينكs | مخصص للألعاب، دعم ممتاز لـ NVIDIA | [تحميل](https://pop.system76.com/) |
 
-### 👨‍🔧 Rescue & Recovery Tools
+### 🛡️ الأمان واختبار الاختراق
 
-| Name | Type | Description | Download Link |
-|------|------|-------------|---------------|
-| **Hiren's BootCD PE 1.0.8** | Recovery | Comprehensive Windows rescue and repair toolkit | [Download](https://www.hirensbootcd.org/download/) |
-| **SystemRescue** | Recovery | Linux-based system rescue toolkit | [Download](https://www.system-rescue.org/Download/) |
+| الاسم | النوع | الوصف | رابط التحميل |
+|------|------|--------|---------------|
+| **Kali Linux 2025.3** | أمان | المعيار الصناعي لاختبار الاختراق | [تحميل](https://www.kali.org/get-kali/) |
+| **Parrot Security 6.x** | أمان | بديل أخف من Kali مع تركيز على الخصوصية | [تحميل](https://parrotsec.org/download/) |
 
----
+### 👨‍🔧 أدوات الإنقاذ والاستعادة
 
-### 🪟 Windows ISOs
+| الاسم | النوع | الوصف | رابط التحميل |
+|------|------|--------|---------------|
+| **Hiren's BootCD PE 1.0.8** | إنقاذ | أدوات إنقاذ وإصلاح شاملة لويندوز | [تحميل](https://www.hirensbootcd.org/download/) |
+| **SystemRescue** | إنقاذ | أدوات إنقاذ مبنية على لينكس | [تحميل](https://www.system-rescue.org/Download/) |
 
-| Name | Type | Description | Download Link |
-|------|------|-------------|---------------|
-| **Windows 11 24H2** | Windows | Latest Windows for modern hardware (requires TPM 2.0) | [Download](https://www.microsoft.com/software-download/windows11) |
-| **Windows 10 22H2** | Windows | Stable, widely compatible, lighter than Win 11 | [Download](https://www.microsoft.com/software-download/windows10) |
+### 🪟 نسخ ويندوز
 
----
+| الاسم | النوع | الوصف | رابط التحميل |
+|------|------|--------|---------------|
+| **Windows 11 24H2** | ويندوز | أحدث ويندوز للهاردوير الحديث (يحتاج TPM 2.0) | [تحميل](https://www.microsoft.com/software-download/windows11) |
+| **Windows 10 22H2** | ويندوز | مستقر، متوافق مع معظم الأجهزة، أخف من ويندوز 11 | [تحميل](https://www.microsoft.com/software-download/windows10) |
 
-### 💠 Hybrid & Lightweight Systems
+### 💠 أنظمة هجينة وخفيفة
 
-| Name | Type | Description | Download Link |
-|------|------|-------------|---------------|
-| **ChromeOS Flex** | Hybrid | Turn old laptops into Chromebooks | [Download](https://chromeenterprise.google/os/chromeosflex/) |
-| **Ventoy (USB Multi-ISO)** | Utility | Boot multiple ISOs from a single USB drive | [Download](https://www.ventoy.net/en/download.html) |
-| **Android-x86** | Hybrid | Run Android on PC (for testing/emulation) | [Download](https://www.android-x86.org/download) |
-
----
-
-## 🔍 How to Search & Choose
-
-1. **Beginners**: Start with Ubuntu or Linux Mint
-2. **Gamers**: Try Pop!_OS or Nobara
-3. **Developers**: Fedora or Arch/EndeavourOS
-4. **Privacy/Security**: Parrot or Kali (ethical use only)
-5. **Old Hardware Revival**: ChromeOS Flex or lightweight distros
-6. **Multi-boot USB**: Use Ventoy to carry all ISOs in one flash drive
+| الاسم | النوع | الوصف | رابط التحميل |
+|------|------|--------|---------------|
+| **ChromeOS Flex** | هجين | حول اللابتوب القديم إلى Chromebook | [تحميل](https://chromeenterprise.google/os/chromeosflex/) |
+| **Ventoy (USB Multi-ISO)** | أداة | شغل عدة نسخ ISO من فلاشة واحدة | [تحميل](https://www.ventoy.net/en/download.html) |
+| **Android-x86** | هجين | شغل اندرويد على الكمبيوتر (للتجربة/المحاكاة) | [تحميل](https://www.android-x86.org/download) |
 
 ---
 
-## 💽 How to Create Bootable USB
+## 🔍 كيف تختار النسخة المناسبة؟
 
-### Option 1: Ventoy (Recommended)
-- Download Ventoy from [ventoy.net](https://www.ventoy.net)
-- Install Ventoy to your USB drive
-- Copy ISO files directly to the USB
-- Boot from USB and select which ISO to boot
+### 🎯 حسب احتياجك:
+- **مبتدئ في لينكس؟** ابدأ بـ Ubuntu أو Linux Mint
+- **جيمر؟** جرب Pop!_OS أو Nobara
+- **مطور؟** Fedora أو Arch/EndeavourOS
+- **مهتم بالأمان/الخصوصية؟** Parrot أو Kali (للاستخدام الأخلاقي فقط)
+- **عندك جهاز قديم؟** ChromeOS Flex أو توزيعات خفيفة
+- **تبي فلاشة متعددة الأنظمة؟** استخدم Ventoy
 
-### Option 2: Rufus (Windows)
-- Download Rufus from [rufus.ie](https://rufus.ie)
-- Select your USB drive and ISO file
-- Choose partition scheme (GPT for UEFI, MBR for Legacy)
-- Click "Start"
+### 📊 فهرس التوزيعات الفرعية:
 
-### Option 3: Etcher (Cross-platform)
-- Download Etcher from [balena.io](https://www.balena.io/etcher/)
-- Simple 3-click process: Select ISO → Select Drive → Flash
+**🔥 مبنية على Ubuntu:**
+- Linux Mint, Pop!_OS, elementary OS
 
----
+**🎩 مبنية على Red Hat:**
+- Fedora, CentOS, Rocky Linux
 
-## ⚠️ Important Safety Tips
+**🏗️ مبنية على Arch:**
+- EndeavourOS, Manjaro, Garuda Linux
 
-- **Always download from official sources** — avoid third-party mirrors
-- **Verify SHA256 checksums** before burning ISOs
-- **Test in VM first** before installing on bare metal
-- **Backup your data** before any installation
-- **Use Ventoy** to avoid re-formatting USB drives repeatedly
+**🔒 متخصصة في الأمان:**
+- Kali Linux, Parrot Security, BlackArch
 
 ---
 
-## 🎯 Usage Scenarios
+## 💽 أدوات الحرق على USB
 
-| Scenario | Recommended ISO |
-|----------|----------------|
-| Learning Linux | Ubuntu 24.04 LTS |
-| Switching from Windows | Linux Mint 22 |
-| Gaming on Linux | Pop!_OS |
-| Penetration Testing | Kali Linux |
-| Windows Rescue | Hiren's BootCD PE |
-| Old Laptop Revival | ChromeOS Flex |
-| Multi-ISO USB Toolkit | Ventoy |
+### 🥇 الخيار الأول: Ventoy (مستحسن)
+- حمل Ventoy من [ventoy.net](https://www.ventoy.net/)
+- نصب Ventoy على الفلاشة
+- انسخ ملفات الـ ISO مباشرة للفلاشة
+- شغل من الفلاشة واختار أي ISO تبي تشغله
 
----
+**💡 نصيحة:** Ventoy يخليك تحط عدة نسخ في فلاشة واحدة!
 
-## 🧩 Contributing
+### 🪟 الخيار الثاني: Rufus (للويندوز)
+- حمل Rufus من [rufus.ie](https://rufus.ie/)
+- اختار الفلاشة وملف الـ ISO
+- اختار نظام التقسيم (GPT للـ UEFI، MBR للـ Legacy)
+- اضغط "Start"
 
-Feel free to suggest additional ISOs, corrections, or improvements via issues or pull requests.
-
----
-
-## 📜 License
-
-This repository is for educational and informational purposes. All linked ISOs are property of their respective maintainers.
+### 🌍 الخيار الثالث: Etcher (متعدد المنصات)
+- حمل Etcher من [balena.io](https://www.balena.io/etcher/)
+- عملية بسيطة من 3 خطوات: اختار ISO ← اختار الدرايف ← Flash
 
 ---
 
-**Happy Computing! 🚀**
+## ⚠️ نصائح أمنية مهمة
+
+### 🔐 قواعد السلامة:
+- **حمل دايماً من المواقع الرسمية** - تجنب المرايا الخارجية
+- **تأكد من الـ SHA256 checksums** قبل حرق النسخ
+- **جرب في VM الأول** قبل التنصيب على الجهاز مباشرة
+- **اعمل backup للبيانات** قبل أي تنصيب
+- **استخدم Ventoy** عشان ما تفرمت الفلاشة كل مرة
+
+### 🚨 تنبيهات مهمة:
+- نسخ الهاكرز (Kali/Parrot) للاستخدام الأخلاقي والتعليمي فقط
+- احترم قوانين بلدك وشروط الاستخدام
+- لا تستخدم أدوات الاختراق ضد أنظمة لا تملكها
+
+---
+
+## 🎯 سيناريوهات الاستخدام
+
+| السيناريو | النسخة المقترحة |
+|-----------|------------------|
+| تعلم لينكس | Ubuntu 24.04 LTS |
+| الانتقال من ويندوز | Linux Mint 22 |
+| الألعاب على لينكس | Pop!_OS |
+| اختبار الاختراق | Kali Linux |
+| إنقاذ ويندوز | Hiren's BootCD PE |
+| إحياء لابتوب قديم | ChromeOS Flex |
+| فلاشة أدوات متعددة | Ventoy |
+
+---
+
+## 🤝 المساهمة
+
+تقدر تقترح نسخ جديدة، تصحيحات، أو تحسينات عن طريق Issues أو Pull Requests.
+
+**المطلوب في المقترحات:**
+- رابط التحميل الرسمي
+- وصف مختصر ومفيد
+- نوع الاستخدام المقترح
+
+---
+
+## 📜 الترخيص
+
+هذا المستودع للأغراض التعليمية والمعلوماتية. جميع نسخ الـ ISO المرتبطة ملك لأصحابها الأصليين.
+
+---
+
+**حوسبة سعيدة! 🚀**  
+*"الكود مفتوح، والمعرفة مشتركة"*

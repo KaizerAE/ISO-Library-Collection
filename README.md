@@ -64,6 +64,11 @@
 | GParted Live | إدارة أقراص | لتقسيم وإدارة الأقراص |  [ تحميل ]( https://gparted.org/download.php )  |
 ---
 ##  🍎 أنظمة macOS
-|  الاسم  |  النوع  |  الوصف  |  رابط التحميل  |
-|-------|--------|--------|---------------|
-|  macOS Ventura  |  سطح المكتب  |  أحدث إصدار من آبل  |   [ تحميل ]( https://apps.apple.com/app/macos-ventura/id1638787999 )  |
+| الاسم | النوع | الوصف | رابط التحميل | الحجم |
+|-------|--------|--------|---------------|-------|
+| BigSur_11.7.1.iso | سطح المكتب | macOS Big Sur | [ تحميل ]( https://archive.org/details/macos_iso ) | 13.0G |
+| Catalina_10.15.7.iso | سطح المكتب | macOS Catalina | [ تحميل ]( https://archive.org/details/macos_iso ) | 8.0G |
+| HighSierra_10.13.6.iso | سطح المكتب | macOS High Sierra | [ تحميل ]( https://archive.org/details/macos_iso ) | 6.0G |
+| Mojave_10.14.6.iso | سطح المكتب | macOS Mojave | [ تحميل ]( https://archive.org/details/macos_iso ) | 6.0G |
+| Monterey_12.6.1.iso | سطح المكتب | macOS Monterey | [ تحميل ]( https://archive.org/details/macos_iso ) | 14.0G |
+| Ventura_13.0.1.iso | سطح المكتب | macOS Ventura | [ تحميل ]( https://archive.org/details/macos_iso ) | 16.0G |
